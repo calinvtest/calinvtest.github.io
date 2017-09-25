@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Hello World!
+category: Dev
+tags: [web, jekyll]
 ---
 
 The customary Hello World from a blog host by GitHub Page and running on Jekyll.
-
-Adding an image ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 This is some code:
 
@@ -16,3 +16,5 @@ public class TestApp {
   }
 }
 ```
+
+Adding an image ![_config.yml]({{ site.baseurl }}/images/config.png)
