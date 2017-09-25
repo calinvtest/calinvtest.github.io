@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Clean Architecture Note
---
+title: Clean Architecture Notes 9/25/17
+category: Dev
+tags: [web, jekyll]
+---
 
 # Clean Architecture Notes
 Design and architecture are the same thing, in spite having the missconceptions that the architecture is concerned with the high level structure of the system and the design with the low level details. They are the same because the high level decisions must be based on the low level details like a house architecture is done.
